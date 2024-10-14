@@ -47,3 +47,35 @@ Select Register to create a new account.
 1. Select Login to log into the system.
 2. Enter your username and password.
 Based on your role, different options will be displayed (e.g., Admins can start the secure API).
+
+### Admin Features
+Admins can start a secure API after logging in.
+Admins have access to more options compared to non-admin users.
+
+### Example Output
+```
+Welcome to the Secure Learning Management System!
+1. Register
+2. Login
+3. Exit
+Choose an option: 1
+Enter username: Abc
+Enter password: Qwerty
+Enter role (admin/teacher/student): admin
+Admin registered successfully!
+1. Register
+2. Login
+3. Exit
+Choose an option: 2
+Enter username: Abc
+Enter password: Qwerty
+Login successful! Welcome, Abc.
+1. Start Secure API
+2. Logout
+Choose an option: 1
+Starting Secure API...
+Secure API started successfully.
+1. Start Secure API
+2. Logout
+
+```
