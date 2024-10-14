@@ -11,3 +11,25 @@ This Learning Management System (LMS) is a simple command-line application devel
 * Login: Authenticate users with username and password.
 * Role-based Access: Different functionalities based on user roles.
 * Secure API: Admin users can start a secure API.
+
+### Prerequisites
+* Python 3
+* bcrypt library.
+
+### Installing bcrypt:
+
+To install the bcrypt library, run the following command in your terminal:
+```
+pip install bcrypt
+```
+
+### Project Structure
+
+```
+- LMS
+    -- Application.py
+    -- Insecure_api.py
+    -- Secure-api.py
+    -- Api.py
+    -- README.md
+```
