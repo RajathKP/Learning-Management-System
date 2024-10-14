@@ -92,7 +92,9 @@ Admins have access to more options compared to non-admin users.
 ```
 1. Start Secure API
 2. Logout
+
 Choose an option: 1
+
 Starting Secure API...
 Secure API started successfully.
 ```
