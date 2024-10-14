@@ -34,3 +34,16 @@ pip install bcrypt
     -- Api.py
     -- README.md
 ```
+### How to Use the Application
+After running the application, you will be prompted with options to register, log in,or exit the application.
+
+### Registration
+
+Select Register to create a new account.
+1. Enter a username, password
+2. select a role (admin, teacher, or student).
+
+### Login
+1. Select Login to log into the system.
+2. Enter your username and password.
+Based on your role, different options will be displayed (e.g., Admins can start the secure API).
