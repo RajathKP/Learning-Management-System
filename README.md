@@ -2,7 +2,7 @@
 
 # Learning Management System (LMS) in Python
 
-###Description.
+### Description.
 
 This Learning Management System (LMS) is a simple command-line application developed in Python. It allows administrators, teachers, and students to interact with the system securely. Users can register, log in, and perform specific tasks based on their roles
 
@@ -21,6 +21,18 @@ This Learning Management System (LMS) is a simple command-line application devel
 To install the bcrypt library, run the following command in your terminal:
 ```
 pip install bcrypt
+```
+
+### Setup and Installation
+1. Clone the Repository: Clone this repository to your local machine.
+
+2. Install Dependencies: Install the required Python packages:
+```
+pip install bcrypt
+```
+3. Run the Application: Run the application.py file from the terminal or command prompt:
+```
+python application.py
 ```
 
 ### Project Structure
